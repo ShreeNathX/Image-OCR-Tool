@@ -7,7 +7,7 @@ The Image OCR Tool is a lightweight web application designed to extract text fro
 ---
 Live Application
 
-Access the deployed application here: https://image-ocr-tool-eqlrkjqfvmyc5f4tzteajo.streamlit.app/
+Access the deployed application here: https://image-ocr.streamlit.app/
 
 ---
 
