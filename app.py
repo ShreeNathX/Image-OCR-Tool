@@ -9,7 +9,7 @@ st.title("Image OCR Tool")
 
 @st.cache_resource(show_spinner="Loading OCR model (first run may take ~2 min)...")
 def load():
-    return easyocr.Reader(['en'], gpu=False)  # gpu=False is explicit for Streamlit Cloud CPU
+    return easyocr.Reader(['en'], gpu=False)
 
 
 reader = load()
