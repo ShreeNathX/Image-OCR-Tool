@@ -105,3 +105,6 @@ Readme.md
 ## Author
 
 This project is developed for learning and practical implementation of OCR and image processing techniques.
+
+
+There is some error while uploading files. I will fix that in future.....
