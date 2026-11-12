@@ -108,3 +108,4 @@ This project is developed for learning and practical implementation of OCR and i
 
 
 There is some error while uploading files. I will fix that in future.....
+There is maybe typo error
